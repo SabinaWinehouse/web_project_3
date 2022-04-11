@@ -159,6 +159,7 @@
   }
   .place__paragraph-link {
     margin: 30px 16px 0;
+
     max-width: 288px;
   }
   .place__paragraph {
